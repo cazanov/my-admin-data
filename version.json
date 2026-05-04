@@ -1,4 +1,5 @@
 {
-  "version": "1.0",
-  "reglamentUrl": "https://docs.google.com/spreadsheets/"
+  "version": "1.0.0",
+  "updateMessage": "Обратитесь к создателю за обновлением расширения",
+  "downloadUrl": "https://github.com/cazanov/my-admin-data"
 }
