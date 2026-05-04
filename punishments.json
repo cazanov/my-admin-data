@@ -1,0 +1,82 @@
+[
+  {
+    "label": "1.1 GZ",
+    "command": "/offjail {nick} 60 1.1 GZ | ЖБ#{cid}\n/offwarn {nick} 1.1 GZ | ЖБ#{cid}"
+  },
+  {
+    "label": "1.2 GZ",
+    "command": "/offwarn {nick} 1.2 GZ | ЖБ#{cid}"
+  },
+  {
+    "label": "1.5 ОПГ",
+    "command": "/offban {nick} NN 1.5 ОПГ | ЖБ#{cid}"
+  },
+  {
+    "label": "1.6 ОП 10 бан",
+    "command": "/offban {nick} 10 1.6 ОП | ЖБ#{cid}"
+  },
+  {
+    "label": "2.1 ОП ОСК",
+    "command": "/offmute {nick} 30 2.1 ОП | ЖБ#{cid}"
+  },
+  {
+    "label": "2.1 ОП оск род",
+    "command": "/offban {nick} 10 2.1 ОП | ЖБ#{cid}"
+  },
+  {
+    "label": "2.2 ОП бан 7д",
+    "command": "/offban {nick} 7 2.2 ОП | ЖБ#{cid}"
+  },
+  {
+    "label": "2.4 ОП 90 мин",
+    "command": "/offmute {nick} 90 2.4 ОП | ЖБ#{cid}"
+  },
+  {
+    "label": "2.6 ОП 7 бан",
+    "command": "/offban {nick} 7 2.6 ОП | ЖБ#{cid}"
+  },
+  {
+    "label": "3.2 ОП",
+    "command": "/offmute {nick} 40 3.2 ОП | ЖБ#{cid}"
+  },
+  {
+    "label": "4.1 ОП СКАМ",
+    "command": "/offban {nick} 7 4.1 ОП | ЖБ#{cid}"
+  },
+  {
+    "label": "5.2 ОП баг",
+    "command": "/offwarn {nick} 5.2 ОП | ЖБ#{cid}"
+  },
+  {
+    "label": "5.2 ОП софт",
+    "command": "/offban {nick} 31 5.2 ОП | ЖБ#{cid}"
+  },
+  {
+    "label": "5.3 ОП jail 40",
+    "command": "/offjail {nick} 40 5.3 ОП | ЖБ#{cid}"
+  },
+  {
+    "label": "5.6 ОП j+m",
+    "command": "/offmute {nick} 30 5.6 ОП | ЖБ#{cid}\n/offjail {nick} 30 5.6 ОП | ЖБ#{cid}"
+  },
+  {
+    "label": "выдача за адм",
+    "command": "/offban {nick} 3 1.2 ОП | ЖБ#{cid}"
+  },
+  {
+    "label": "DB 30 мин",
+    "command": "/offjail {nick} 30 DB | ЖБ#{cid}"
+  },
+  {
+    "label": "DM 40 мин",
+    "command": "/offjail {nick} 40 DM | ЖБ#{cid}"
+  },
+  {
+    "label": "SK jail 90",
+    "command": "/offjail {nick} 90 SK | ЖБ#{cid}"
+  },
+  {
+    "label": "TK jail 30",
+    "command": "/offjail {nick} 30 TK | ЖБ#{cid}"
+  }
+]
